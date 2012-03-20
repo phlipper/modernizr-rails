@@ -5,7 +5,7 @@
 
 ## Usage
 
-This gem vendors Modernizr 2.0.6 for Rails 3.1 and greater. The files will be added to the asset pipeline and available for you to use.
+This gem vendors Modernizr 2.5.3 for Rails 3.1 and greater. The files will be added to the asset pipeline and available for you to use.
 
 To enable, add the following line to the file `app/assets/javascripts/application.js` (or other [sprockets](https://github.com/sstephenson/sprockets) manifest):
 
